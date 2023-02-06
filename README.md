@@ -4,7 +4,7 @@ A small program where you can create one or more PacMan and it will run across t
 
 # How to Run
 
-Simply click on "github-pages" under "Environments" and then click on "View Deployment"
+Simply click on "github-pages" under "Environments" and then click on "View Deployment". Or you can just download the whole repository and run the index.HTML file on a browser from your local computer.
 
 # Future Improvement
 
